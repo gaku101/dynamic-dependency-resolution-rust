@@ -8,3 +8,4 @@ anyhow = "1.0.95"
 clap = { version = "4.5.28", features = ["derive"] }
 ferris-says = "0.3.2"
 wasmtime = "29.0.1"
+wasmtime-wasi = "29.0.1"
